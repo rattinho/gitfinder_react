@@ -1,3 +1,12 @@
+# GitFinder
+
+Projeto desenvolvido durante o curso da DIO para aplicar os conhecimentos em React.
+O mesmo se trata de uma wiki de repositorios do GitHub, explorando sua API de usuários. Com este projeto é possível realizar uma simples busca por username e obter uma lista com os repositorios públicos deste usuário, além de algumas de suas informações pessoais.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
